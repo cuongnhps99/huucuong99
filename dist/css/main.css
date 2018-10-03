@@ -6333,16 +6333,23 @@ html, body {
   .box .content {
     padding: 2rem 3rem; }
     .box .content p {
-      color: yellow; }
+      font-size: 18px;
+      color: #0c0b06; }
     .box .content h2 {
-      color: #fff; }
-      .box .content h2 span {
-        color: red; }
+      color: #96917f; }
+    .box .content h3 {
+      color: #0c0b06; }
+      .box .content h3 span {
+        color: #96917f;
+        padding-top: 10px; }
+    .box .content price {
+      font-size: 18px;
+      color: #96917f; }
     .box .content .button {
       padding-top: 2rem; }
       .box .content .button a {
-        color: red;
-        background: yellow;
+        color: #fff;
+        background: #db6f1c;
         padding: 1rem 2rem;
         border-radius: 3rem;
         text-decoration: none; }
